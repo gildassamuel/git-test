@@ -1,0 +1,26 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test to learn git node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildassamuel/git-test.git"
+  },
+  "author": "Samuel dongmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildassamuel/git-test/issues"
+  },
+  "homepage": "https://github.com/gildassamuel/git-test#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
